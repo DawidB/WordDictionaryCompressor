@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryLoader", "DictionaryLoader\DictionaryLoader.csproj", "{A8867FE1-2D52-4807-AAA5-1EE99E7155B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benchmarks", "Benchmarks\Benchmarks.csproj", "{5CD2F859-583C-4F97-9031-7336211558DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{16403DE6-74E1-441E-ACA3-7D3C1D8C03F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8867FE1-2D52-4807-AAA5-1EE99E7155B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8867FE1-2D52-4807-AAA5-1EE99E7155B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8867FE1-2D52-4807-AAA5-1EE99E7155B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8867FE1-2D52-4807-AAA5-1EE99E7155B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CD2F859-583C-4F97-9031-7336211558DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CD2F859-583C-4F97-9031-7336211558DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CD2F859-583C-4F97-9031-7336211558DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CD2F859-583C-4F97-9031-7336211558DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16403DE6-74E1-441E-ACA3-7D3C1D8C03F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16403DE6-74E1-441E-ACA3-7D3C1D8C03F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16403DE6-74E1-441E-ACA3-7D3C1D8C03F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16403DE6-74E1-441E-ACA3-7D3C1D8C03F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
